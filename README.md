@@ -38,7 +38,7 @@
     <div class="">
         <h2 style="font-weight: bold;">Languages and frameworks</h2>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,java,html,css,spring,react,mysql,sqlserver,git" />
+            <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,react,mysql,firebase,git" />
         </a>
         <h2 style="font-weight: bold;">Knowledge of: Object Oriented Programming, Data structure and Algorithms, Network, SQL  </h2>
     </div>
