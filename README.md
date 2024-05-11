@@ -10,7 +10,7 @@
 <body>
     <h1 align="center">Hi there 👋 </h1>
     <p style="font-size: larger;">
-       I'm Tuan, a student at VNU-HCM, majoring in Information Technology at HCMUS. With myknowledge of web development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
+       I'm Tay, a student at HCMUTE, majoring in Information Technology. With myknowledge of web development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
     </p>
     <ul style="list-style: none;">
         <li>
@@ -22,13 +22,13 @@
         <li>
             <h2 style="text-decoration: none;">📫 Contact me <br/><br/>
                 <div style="margin-top: 10;">
-                    <a href="https://www.linkedin.com/in/tuan-truong-437110259">
+                    <a href="www.linkedin.com/in/phuong-tay-282736210">
                         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
                     </a>
-                    <a href="https://github.com/tuantruong-03">
+                    <a href="https://github.com/PhuongTay1109">
                         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
                     </a>
-                    <a href="https://www.facebook.com/TuanTruong.03/">
+                    <a href="https://www.facebook.com/phuongtay1109">
                         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
                     </a>
                 </div>
@@ -38,7 +38,7 @@
     <div class="">
         <h2 style="font-weight: bold;">Languages and frameworks</h2>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,java,html,css,spring,react,express,mysql,git" />
+            <img src="https://skillicons.dev/icons?i=js,java,html,css,spring,react,mysql,sqlserver,git" />
         </a>
         <h2 style="font-weight: bold;">Knowledge of: Object Oriented Programming, Data structure and Algorithms, Network, SQL  </h2>
     </div>
