@@ -35,7 +35,7 @@
     </li>
    </ul>
     <div class="">
-        <h2 style="font-weight: bold;">HAVE KNOWLEDGE OF</h2>
+        <h2 style="font-weight: bold;">I HAVE KNOWLEDGE OF</h2>
         <ul style="list-style: none;">
             <li>
                 <h3 style="text-decoration: none;">Java, Spring Boot</h3>
