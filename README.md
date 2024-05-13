@@ -35,11 +35,24 @@
     </li>
    </ul>
     <div class="">
-        <h2 style="font-weight: bold;">Languages and frameworks</h2>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,spring,html,css,bootstrap,js,react,mysql,firebase,git" />
-        </a>
-        <h2 style="font-weight: bold;">Knowledge of: Object Oriented Programming, Data structure and Algorithms, Network, SQL  </h2>
+        <h2 style="font-weight: bold;">HAVE KNOWLEDGE OF</h2>
+        <ul style="list-style: none;">
+            <li>
+                <h3 style="text-decoration: none;">Java, Spring Boot</h3>
+            </li>
+            <li>
+                <h3 style="text-decoration: none;">HTML, CSS, Bootstrap</h3>
+            </li>
+            <li>
+                <h3 style="text-decoration: none;">JS, React </h3>
+            </li>
+            <li>
+                <h3 style="text-decoration: none;">MySQL, Firebase, SQLServer </h3>
+            </li>
+            <li>
+                <h3 style="text-decoration: none;">Git </h3>
+            </li>
+       </ul>
     </div>
 </body>
 
