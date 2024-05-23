@@ -9,7 +9,7 @@
 <body>
     <h1 align="center">Hi there 👋 </h1>
     <p style="font-size: larger;">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Tay. I am currently completing my third year and will officially become a fourth-year student in September 2024 at Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Information Technology. With a good foundation in web development and a passion for problem-solving, combined with a strong willingness to learn new technologies, I am dedicated to creating practical web applications.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Tay. I am currently completing my third year and will officially become a fourth-year student in September 2024 at Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Software Engineering. With a good foundation in web development and a passion for problem-solving, combined with a strong willingness to learn new technologies, I am dedicated to creating practical web applications.
     </p>
     <ul style="list-style: none;">
         <li>
