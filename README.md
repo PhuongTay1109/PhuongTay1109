@@ -9,7 +9,7 @@
 <body>
     <h1 align="center">Hi there 👋 </h1>
     <p style="font-size: larger;">
-       I'm Tay, a student at HCMUTE, majoring in Information Technology. With myknowledge of web development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
+       I'm Tay, a student at HCMUTE, majoring in Software Engineering. With my knowledge of web development, I am deeply passionate about solving problems and developing more applications for useful purposes. Besides that, I am also willing to learn new technologies to enhance my programming skills.
     </p>
     <ul style="list-style: none;">
         <li>
@@ -38,7 +38,7 @@
         <h2 style="font-weight: bold;">I HAVE KNOWLEDGE OF</h2>
         <ul style="list-style: none;">
             <li>
-                <h3 style="text-decoration: none;">Java, Spring Boot</h3>
+                <h3 style="text-decoration: none;">Java, Spring Boot, Spring Framework</h3>
             </li>
             <li>
                 <h3 style="text-decoration: none;">HTML, CSS, Bootstrap</h3>
