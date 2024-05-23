@@ -9,13 +9,13 @@
 <body>
     <h1 align="center">Hi there 👋 </h1>
     <p style="font-size: larger;">
-        &nbsp;&nbsp;&nbsp;My name is Tay. I am currently completing my third year and will officially become a fourth-year student in September 2024 at Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Information Technology. Throughout my academic journey, I have gained valuable experience in web application development using Java Spring Boot. My skills include working with various Spring frameworks such as Spring Data JPA and Hibernate for database management, and Spring Security for secure application development. I am also familiar with designing databases and writing APIs.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Tay. I am currently completing my third year and will officially become a fourth-year student in September 2024 at Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Information Technology. Throughout my academic journey, I have gained valuable experience in web application development using Java Spring Boot. My skills include working with various Spring frameworks such as Spring Data JPA and Hibernate for database management, and Spring Security for secure application development. I am also familiar with designing databases and writing APIs.
     </p>
     <p style="font-size: larger;">
-        &nbsp;&nbsp;&nbsp;In addition to back-end development, I have hands-on experience with front-end technologies including HTML, CSS, Bootstrap, JavaScript, JSP, and Thymeleaf. This combination of skills enables me to create user-friendly web applications.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition to back-end development, I have hands-on experience with front-end technologies including HTML, CSS, Bootstrap, JavaScript, JSP, and Thymeleaf. This combination of skills enables me to create user-friendly web applications.
      </p>
      <p style="font-size: larger;">
-         &nbsp;&nbsp;&nbsp;With my enthusiasm for web application development and eagerness to learn, I am seeking an internship to further develop my skills and gain practical experience in a professional setting, with the hope of becoming a permanent employee in the future. I am committed to bringing dedication, enthusiasm, and a proactive approach to the position, ensuring that I deliver high-quality work.
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With my enthusiasm for web application development and eagerness to learn, I am seeking an internship to further develop my skills and gain practical experience in a professional setting, with the hope of becoming a permanent employee in the future. I am committed to bringing dedication, enthusiasm, and a proactive approach to the position, ensuring that I deliver high-quality work.
     </p>
     <ul style="list-style: none;">
         <li>
