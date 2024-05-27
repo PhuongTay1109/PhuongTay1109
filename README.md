@@ -38,7 +38,7 @@
         <h2 style="font-weight: bold;">I HAVE KNOWLEDGE OF</h2>
         <ul style="list-style: none;">
             <li>
-                <h3 style="text-decoration: none;">Java,, Spring Framework, Spring Boot</h3>
+                <h3 style="text-decoration: none;">Java, Spring Framework, Spring Boot</h3>
             </li>
             <li>
                 <h3 style="text-decoration: none;">HTML, CSS, Bootstrap</h3>
