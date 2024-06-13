@@ -16,7 +16,7 @@
             <h2 style="text-decoration: none;">👨‍💻 I'm currently learning Web Development</h2>
         </li>
         <li>
-            <h2 style="text-decoration: none;">🏢 I'm looking for Java internship in Sofware Engineer Company</h2>
+            <h2 style="text-decoration: none;">🏢 I'm looking for Java internship in Software Engineer Company</h2>
         </li>
         <li>
             <h2 style="text-decoration: none;">📫 Contact me <br/><br/>
