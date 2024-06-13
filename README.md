@@ -9,7 +9,7 @@
 <body>
     <h1 align="center">Hi there 👋 </h1>
     <p style="font-size: larger;">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Tay. I am currently completing my third year and will officially become a fourth-year student in August 2024 at Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Software Engineering. With a good foundation in web development and a passion for problem-solving, combined with a strong willingness to learn new technologies, I am dedicated to creating practical web applications.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Tay. I am a third year student at Ho Chi Minh City University of Technology and Education (HCMUTE), majoring in Software Engineering. With a good foundation in web development and a passion for problem-solving, combined with a strong willingness to learn new technologies, I am dedicated to creating practical web applications.
     </p>
     <ul style="list-style: none;">
         <li>
@@ -38,22 +38,19 @@
         <h2 style="font-weight: bold;">I HAVE KNOWLEDGE OF</h2>
         <ul style="list-style: none;">
             <li>
-                <h3 style="text-decoration: none;">Java, Spring Framework, Spring Boot</h3>
+                <h3 style="text-decoration: none;">Java, Spring Framework, Spring Boot, Spring Security, Spring JPA, Spring WebSockets. </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">HTML, CSS, Bootstrap</h3>
+                <h3 style="text-decoration: none;">HTML, CSS, Bootstrap, JS, React </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">JS, React </h3>
+                <h3 style="text-decoration: none;">MySQL, PostgreSQL, MongoDB, Firebase </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">MySQL, Firebase, SQLServer </h3>
+                <h3 style="text-decoration: none;">Git, Docker </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">Git </h3>
-            </li>
-            <li>
-                <h3 style="text-decoration: none;">OOP, DSA </h3>
+                <h3 style="text-decoration: none;">OOP, DSA, Network </h3>
             </li>
        </ul>
     </div>
