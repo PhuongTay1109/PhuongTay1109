@@ -16,7 +16,7 @@
             <h2 style="text-decoration: none;">👨‍💻 I'm currently learning Web Development</h2>
         </li>
         <li>
-            <h2 style="text-decoration: none;">🏢 I'm looking for Backend internship in Software Engineer Company</h2>
+            <h2 style="text-decoration: none;">🏢 I'm looking for Backend internship in Software Company</h2>
         </li>
         <li>
             <h2 style="text-decoration: none;">📫 Contact me <br/><br/>
@@ -38,19 +38,19 @@
         <h2 style="font-weight: bold;">I HAVE KNOWLEDGE OF</h2>
         <ul style="list-style: none;">
             <li>
-                <h3 style="text-decoration: none;">Java, Spring Framework, Spring Boot, Spring Security, Spring JPA, Spring WebSockets. </h3>
+                <h3 style="text-decoration: none;">Back-end: Java, Spring Boot, Spring Security, Spring JPA, Spring WebSockets. </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">HTML, CSS, Bootstrap, JS, React </h3>
+                <h3 style="text-decoration: none;">Front-end: ReactJS, HTML, CSS, Bootstrap, JS. </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">MySQL, PostgreSQL, MongoDB, Firebase </h3>
+                <h3 style="text-decoration: none;">Database: MySQL, PostgreSQL, MongoDB. </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">Git, Docker </h3>
+                <h3 style="text-decoration: none;">Git, Docker. </h3>
             </li>
             <li>
-                <h3 style="text-decoration: none;">OOP, DSA, Network </h3>
+                <h3 style="text-decoration: none;">OOP, DSA, Network. </h3>
             </li>
        </ul>
     </div>
